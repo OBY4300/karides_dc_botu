@@ -34,7 +34,11 @@ Yapay zekânın sahip olduğu kendinden-emin-yalan-söyleme handikapının varl�
 <br>Fazladan: config.py'deki "model_ismi" değişkenini uygun bir şekilde değiştirerek ve uygun modeli komutlarla indirerek farklı bir yapay zeka modelini kullanabilirsiniz.
 <br>Lütfen Ollama aracının Python modülü dokümantasyonuna danışın: https://github.com/ollama/ollama-python
 
+<br>Ayrıca logic.py'nin oluşturduğu "data.db" belgesi "Ana Dizin" klasörünün dışında olmalıdır.
+<br>Bu davranışın normal olduğuunu bildirmeliyim.
+
 
 
 <br><br><br>Bu bottaki yapay zeka özelliklerinin gösterebileceği davranışlardan ben sorumlu değilim.
+
 
