@@ -28,7 +28,7 @@ Yapay zekânın sahip olduğu kendinden-emin-yalan-söyleme handikapının varl�
 <br>Dördüncü olarak komut satırınıza (Mac ve Windows) "ollama pull deepseek-r1:1.5b" yazarak Deepseek r1:1.5b yapay zeka modelini bilgisayarınıza inidirin.
 <br>(1.1 GB alan gerektirir)
 
-<br>Son olarak logic.py'yi ve sonradan da main.py'yi çalıştırarak (terminalden "python" komuduyla veya bir İDE ile) bu şablonu kullanarak çalışan bir
+<br>Son olarak logic.py'yi ve sonradan da main.py'yi çalıştırarak (terminalden "python" komuduyla, veya bir İDE ile) bu şablonu kullanarak çalışan bir
 <br>Discord botu elde edersiniz.
 
 <br>Fazladan: config.py'deki "model_ismi" değişkenini uygun bir şekilde değiştirerek ve uygun modeli komutlarla indirerek farklı bir yapay zeka modelini kullanabilirsiniz.
@@ -40,6 +40,7 @@ Yapay zekânın sahip olduğu kendinden-emin-yalan-söyleme handikapının varl�
 
 
 <br><br><br>Bu bottaki yapay zeka özelliklerinin gösterebileceği davranışlardan ben sorumlu değilim.
+
 
 
 
