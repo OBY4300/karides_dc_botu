@@ -19,21 +19,22 @@ Yapay zekânın sahip olduğu kendinden-emin-yalan-söyleme handikapının varl�
 
 ## Bu bot nasıl kullanılır?
 İlk önce, bu botu çalıştırabilecek dosyaları edinmek için bu depoyu HTTP veya SSH yöntemiyle kopyalayın.
-"git clone https://github.com/OBY4300/karides_dc_botu.git" (HTTP yöntemi, bulunduğunuz dizine dosyaları kopyalar)
+<br>"git clone https://github.com/OBY4300/karides_dc_botu.git" (HTTP yöntemi, bulunduğunuz dizine dosyaları kopyalar)
 
-İkinci olarak Discord botunuzun gizli tokenini config.py'deki "token" değişkeni içine koyun.
+<br>İkinci olarak Discord botunuzun gizli tokenini config.py'deki "token" değişkeni içine koyun.
 
-Üçüncü olarak https://ollama.com/download/windows adresinden uygun işletim sisteminiz için Ollama uygulamasını indirin.
+<br>Üçüncü olarak https://ollama.com/download/windows adresinden uygun işletim sisteminiz için Ollama uygulamasını indirin.
 
-Dördüncü olarak komut satırınıza (Mac ve Windows) "ollama pull deepseek-r1:1.5b" yazarak Deepseek r1:1.5b yapay zeka modelini bilgisayarınıza inidirin.
-(1.1 GB alan gerektirir)
+<br>Dördüncü olarak komut satırınıza (Mac ve Windows) "ollama pull deepseek-r1:1.5b" yazarak Deepseek r1:1.5b yapay zeka modelini bilgisayarınıza inidirin.
+<br>(1.1 GB alan gerektirir)
 
-Son olarak logic.py'yi ve sonradan da main.py'yi çalıştırarak (terminalden "python" komuduyla veya bir İDE ile) bu şablonu kullanarak çalışan bir
-Discord botu elde edersiniz.
+<br>Son olarak logic.py'yi ve sonradan da main.py'yi çalıştırarak (terminalden "python" komuduyla veya bir İDE ile) bu şablonu kullanarak çalışan bir
+<br>Discord botu elde edersiniz.
 
-Fazladan: config.py'deki "model_ismi" değişkenini uygun bir şekilde değiştirerek ve uygun modeli komutlarla indirerek farklı bir yapay zeka modelini kullanabilirsiniz.
-Lütfen Ollama aracının Python modülü dokümantasyonuna danışın: https://github.com/ollama/ollama-python
+<br>Fazladan: config.py'deki "model_ismi" değişkenini uygun bir şekilde değiştirerek ve uygun modeli komutlarla indirerek farklı bir yapay zeka modelini kullanabilirsiniz.
+<br>Lütfen Ollama aracının Python modülü dokümantasyonuna danışın: https://github.com/ollama/ollama-python
 
 
 
-Bu bottaki yapay zeka özelliklerinin gösterebileceği davranışlardan ben sorumlu değilim.
+<br><br><br>Bu bottaki yapay zeka özelliklerinin gösterebileceği davranışlardan ben sorumlu değilim.
+
